@@ -113,7 +113,7 @@ const Footer = () => {
           </Col>
           <Col md={4} className="text-center">
             <div className="copyright">
-              <p>© Copyright 2023 Waggy. Design by <a href="https://templatesjungle.com/" target="_blank" rel="noopener noreferrer">TemplatesJungle</a> Distribution by <a href="https://themewagon.com" target="blank" rel="noopener noreferrer">ThemeWagon</a></p>
+              <p>© Copyright 2023 Waggy. Design by <a href="https://templatesjungle.com/" target="_blank" rel="noopener noreferrer">TemplatesJungle</a> Distribution by <a href="https://themewagon.com" target=\"blank" rel="noopener noreferrer">ThemeWagon</a></p>
             </div>
           </Col>
           <Col md={4} className="card-wrap">
