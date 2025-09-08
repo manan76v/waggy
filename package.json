@@ -1,0 +1,17 @@
+@@ .. @@
+   "scripts": {
+     "dev": "vite",
+     "build": "vite build",
+     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+     "preview": "vite preview"
+   },
+   "dependencies": {
++    "aos": "^2.3.4",
++    "chocolat.js": "^1.1.2",
++    "isotope-layout": "^3.0.6",
++    "jarallax": "^2.0.4",
++    "masonry-layout": "^4.2.2",
+     "react": "^18.2.0",
+     "react-dom": "^18.2.0",
++    "swiper": "^11.0.5"
+   },
